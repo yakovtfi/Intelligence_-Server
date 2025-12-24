@@ -1,0 +1,20 @@
+[
+  {
+    "id": "AG001",
+    "name": "James Bond",
+    "nickname": "007",
+    "reportsCount": 2
+  },
+  {
+    "id": "AG002",
+    "name": "Natasha Romanoff",
+    "nickname": "Black Widow",
+    "reportsCount": 1
+  },
+  {
+    "id": "AG003",
+    "name": "Joni",
+    "nickname": "Beravo 6",
+    "reportsCount": 0
+  }
+]

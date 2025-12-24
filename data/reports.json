@@ -1,0 +1,20 @@
+[
+  {
+    "id": "RPT001",
+    "date": "2025-12-20",
+    "content": "Mission accomplished in Moscow. Target neutralized.",
+    "agentId": "AG001"
+  },
+  {
+    "id": "RPT002",
+    "date": "2025-12-21",
+    "content": "Intel gathered on enemy operations in Berlin.",
+    "agentId": "AG001"
+  },
+  {
+    "id": "RPT003",
+    "date": "2025-12-22",
+    "content": "Infiltration successful. Documents secured.",
+    "agentId": "AG002"
+  }
+]
